@@ -1,0 +1,99 @@
+{
+  "name": "Sumit Negi",
+  "summary": "Results-oriented and passionate Full Stack Developer with expertise in both frontend and backend technologies.",
+  "technicalSkills": {
+    "frontend": ["ReactJS", "JavaScript"],
+    "backend": ["Node.js", "Express.js"],
+    "database": ["MySQL", "MongoDB", "PostgreSQL"],
+    "working on": ["Redis", "System Design"]
+  },
+  "projects": [
+    {
+      "title": "E-commerce Platform",
+      "description": "Developed a scalable e-commerce platform with a user-friendly interface, integrated payment gateways, and order management.",
+      "technologies": ["ReactJS", "Node.js", "MongoDB"],
+      "duration": "6 months"
+    },
+    {
+      "title": "Blog Application",
+      "description": "Built a feature-rich blog application with authentication, comments, and real-time updates.",
+      "technologies": ["ReactJS", "Node.js", "Express.js", "MongoDB"],
+      "duration": "4 months"
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Computer Science",
+    "school": "University XYZ",
+    "graduationYear": 2020
+  },
+  "workExperience": [
+    {
+      "position": "Full Stack Developer",
+      "company": "Tech Solutions Inc.",
+      "startDate": "January 2021",
+      "endDate": "Present",
+      "responsibilities": [
+        "Collaborated with cross-functional teams to deliver high-quality software solutions.",
+        "Implemented new features and enhancements in the existing applications.",
+        "Performed code reviews and mentored junior developers."
+      ]
+    },
+    {
+      "position": "Software Intern",
+      "company": "Innovative Tech Labs",
+      "startDate": "May 2020",
+      "endDate": "August 2020",
+      "responsibilities": [
+        "Assisted in the development of a real-time chat application.",
+        "Gained hands-on experience with various frontend and backend technologies."
+      ]
+    }
+  ],
+  "certifications": [
+    "Certified React Developer",
+    "Node.js Developer Certification"
+  ],
+  "languages": ["English", "Spanish"],
+  "topics": [
+    {
+      "name": "javascript",
+      "info": "info about javascript"
+    },
+    {
+      "name": "typescript",
+      "info": "info about typescript"
+    },
+    {
+      "name": "nodejs",
+      "info": "info about nodejs"
+    },
+    {
+      "name": "nextjs",
+      "info": "info about Next.js - a React framework for building web applications"
+    },
+    {
+      "name": "tailwindcss",
+      "info": "info about Tailwind CSS - a utility-first CSS framework"
+    },
+    {
+      "name": "react",
+      "info": "info about React - a JavaScript library for building user interfaces"
+    },
+    {
+      "name": "web-development",
+      "info": "info about various web development topics including HTML, CSS, and more"
+    },
+    {
+      "name": "frontend-development",
+      "info": "info about frontend development, focusing on client-side technologies"
+    },
+    {
+      "name": "backend-development",
+      "info": "info about backend development, focusing on server-side technologies"
+    },
+    {
+      "name": "full-stack-development",
+      "info": "info about full-stack development, involving both frontend and backend technologies"
+    }
+  ]
+}
